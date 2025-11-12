@@ -1,0 +1,32 @@
+.aviator-display {
+  border: 2px solid #3498db;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1rem;
+  background-color: #ecf0f1;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: 'Arial', sans-serif;
+}
+
+.aviator-display h2 {
+  margin-top: 0;
+  color: #2c3e50;
+}
+
+.multiplier-display {
+  font-size: 4rem;
+  font-weight: bold;
+  color: #2980b9;
+  margin: 1rem 0;
+}
+
+.status-display {
+  font-size: 1.2rem;
+  color: #7f8c8d;
+}
+
+.status-error {
+  color: #c0392b;
+  font-weight: bold;
+}
